@@ -1,10 +1,10 @@
 import { SubmitKey } from "../store/config";
 
 const cn = {
-  WIP: "该功能仍在开发中……",
+  WIP: "沈先生：13921492881，微信号：sofeet100",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。本产品仅在为大客户企业或单位使用上真正高速的chatGPT，如果您的企业需要该部署独立产品请与我们联系，沈先生：13921492881，微信号：sofeet100 ",
   },
   Auth: {
     Title: "需要密码",
@@ -265,7 +265,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "插件",
+    Name: "联系蝶雨",
   },
   Mask: {
     Name: "面具",

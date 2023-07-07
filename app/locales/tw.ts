@@ -2,9 +2,9 @@ import { SubmitKey } from "../store/config";
 import type { PartialLocaleType } from "./index";
 
 const tw: PartialLocaleType = {
-  WIP: "該功能仍在開發中……",
+  WIP: "沈先生：13921492881，微信号：sofeet100",
   Error: {
-    Unauthorized: "目前您的狀態是未授權，請前往設定頁面輸入授權碼。",
+    Unauthorized: "目前您的狀態是未授權，請前往設定頁面輸入授權碼。本产品仅在为大客户企业或单位使用上真正高速的chatGPT，如果您的企业需要该部署独立产品请与我们联系，沉先生：13921492881，微信号：sofeet100 ",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 條對話`,
@@ -175,7 +175,7 @@ const tw: PartialLocaleType = {
     Edit: "前置上下文和歷史記憶",
     Add: "新增一條",
   },
-  Plugin: { Name: "插件" },
+  Plugin: { Name: "联系蝶雨" },
   Mask: {
     Name: "面具",
     Page: {
